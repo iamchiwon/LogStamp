@@ -2,6 +2,10 @@
 
 ![shot1](doc/screen1.png) ![sho2](doc/screen2.png) ![sho3](doc/screen3.png)
 
+###Enviroment
+- iOS (iOS8+) Application
+- Objective-C
+
 ###Features
 
 1. Text, Photo, Camera, Location, Drawing, Stamp 등의 정보를 입력받아 데이터로 구성
@@ -19,4 +23,7 @@
 2. 현위치 기반으로 지도 이미지 생성
 3. Drawing 입력 받아 이미지로 생성
 4. Drawing 시 Orientation 적용
+5. Today Extension 기능
+6. Database 연동
+7. Upload exported report on cloud
 
