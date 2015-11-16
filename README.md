@@ -23,6 +23,8 @@
 2. 현위치 기반으로 지도 이미지 생성
 3. Drawing 입력 받아 이미지로 생성
 4. Drawing 시 Orientation 적용
+5. List item swipe delete
+6. Show detail View on select item
 5. Today Extension 기능
 6. Database 연동
 7. Upload exported report on cloud
