@@ -19,13 +19,13 @@
 ####Todo
 
 1. Text 입력 처리
-2. Camera 처리
-2. 현위치 기반으로 지도 이미지 생성
-3. Drawing 입력 받아 이미지로 생성
-4. Drawing 시 Orientation 적용
-5. List item swipe delete
-6. Show detail View on select item
-5. Today Extension 기능
-6. Database 연동
-7. Upload exported report on cloud
+2. Camera 처리 / Video 처리(?)
+3. 현위치 기반으로 지도 이미지 생성
+4. Drawing 입력 받아 이미지로 생성
+5. Drawing 시 Orientation 적용
+6. List item swipe delete
+7. Show detail View on select item
+8. Today Extension 기능
+9. Database 연동
+10. Upload exported report on cloud
 
