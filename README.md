@@ -3,7 +3,7 @@
 ![shot1](doc/screen1.png) ![sho2](doc/screen2.png) ![sho3](doc/screen3.png)
 
 ###Enviroment
-- iOS (iOS8+) Application
+- iOS Application / iOS 8+
 - Objective-C
 
 ###Features
