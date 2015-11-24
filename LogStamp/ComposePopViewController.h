@@ -9,5 +9,5 @@
 #import <UIKit/UIKit.h>
 
 @interface ComposePopViewController : UIViewController
-@property UIView *backScreen;
+@property UIView* backScreen;
 @end

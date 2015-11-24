@@ -12,11 +12,11 @@
 
 - (instancetype)init
 {
-    self= [super init];
-    if(self) {
-        self.image= nil;
-        self.text= @"";
-        self.timeStamp= [NSDate date];
+    self = [super init];
+    if (self) {
+        self.image = nil;
+        self.text = @"";
+        self.timeStamp = [NSDate date];
     }
     return self;
 }

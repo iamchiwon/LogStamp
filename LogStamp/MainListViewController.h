@@ -9,6 +9,6 @@
 #import <UIKit/UIKit.h>
 
 @interface MainListViewController : UIViewController
-@property (weak, nonatomic) IBOutlet UIBarButtonItem *composeButton;
+@property (weak, nonatomic) IBOutlet UIBarButtonItem* composeButton;
 
 @end
